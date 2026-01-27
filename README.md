@@ -3,7 +3,7 @@
 This project demonstrates my data analytics skills tailored to Wishlink's requirements for a Data Analyst role, focusing on e-commerce insights, SQL querying, data visualization in Tableau, and Python-based data processing. It analyzes sales data to uncover trends, customer behavior, and performance metrics, providing actionable recommendations for inventory management and marketing strategies.
 
 ## Live Tableau Dashboard
-[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/yourusername/viz/YourDashboardName/Dashboard1)  
+[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/rohit.mannur3130/viz/Creator-DrivenCommerceAnalyticsWishlinkRohitMannur/WishlinkProductPerformanceDashboard?publish=yes)  
 *(Click the link above to explore the full interactive version.)*
 
 ![Tableau Dashboard Preview](./assets/tableau_dashboard_preview.png)
