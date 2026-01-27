@@ -6,7 +6,7 @@ This project demonstrates my data analytics skills tailored to Wishlink's requir
 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/rohit.mannur3130/viz/Creator-DrivenCommerceAnalyticsWishlinkRohitMannur/WishlinkProductPerformanceDashboard?publish=yes)  
 *(Click the link above to explore the full interactive version.)*
 
-![Tableau Dashboard Preview](./assets/tableau_dashboard_preview.png)
+![Tableau Dashboard Preview](https://public.tableau.com/app/profile/rohit.mannur3130/viz/Creator-DrivenCommerceAnalyticsWishlinkRohitMannur/WishlinkProductPerformanceDashboard?publish=yes)
 
 ## Project Summary
 This repository contains a complete data analytics pipeline for e-commerce sales data. Key objectives include:
